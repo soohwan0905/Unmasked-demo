@@ -1,3 +1,4 @@
+/* eslint-disable eqeqeq */
 import React, {Component} from 'react';
 import {View, StyleSheet, TouchableOpacity, Text} from 'react-native';
 import NewPost from './NewPost.js';

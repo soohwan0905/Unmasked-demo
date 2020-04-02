@@ -1,3 +1,4 @@
+/* eslint-disable eqeqeq */
 /**
  * Sample React Native App
  * https://github.com/facebook/react-native
@@ -7,7 +8,7 @@
  */
 
 import React, {Component} from 'react';
-import {StyleSheet, ScrollView, Text, View} from 'react-native';
+import {StyleSheet, Text, View} from 'react-native';
 import Postlist from './components/Postlist.js';
 import Create from './components/Create.js';
 import DeleteAll from './components/DeleteAll.js';
